@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "particle.targetPlatform": "p1",
+    "particle.targetDevice": "330059001851363036373538"
+}
