@@ -1,5 +1,9 @@
 # Not public
 EightTools/src/secret.h
+EspFeatherRelay/src/secret.h
+
+EspFeatherRelay/.pio/*
+EspFeatherRelay/.vscode/*
 
 .DS_Store
 
